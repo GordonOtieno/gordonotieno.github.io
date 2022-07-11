@@ -24,6 +24,7 @@ Use: git clone https://github.com/GordonOtieno/portfolio-website.git
 
 👤 **Gordon Otieno**
 
+- Portfolio Website: https://gordonotieno.github.io/
 - GitHub: [@GordonOtieno](https://github.com/GordonOtieno
 - Twitter: [@GordonO34459259](https://twitter.com/@GordonO34459259
 
