@@ -23,12 +23,16 @@ Use: git clone https://github.com/GordonOtieno/portfolio-website.git
 ## Authors
 
 👤 **Gordon Otieno**
-- Website: https://gordonotieno.github.io/
+
 - GitHub: [@GordonOtieno](https://github.com/GordonOtieno
 - Twitter: [@GordonO34459259](https://twitter.com/@GordonO34459259
 
 ## Acknowledgments
 - Umer Zia: [@UmerZia](https://github.com/UmerZia for contributing to my project
+
+## Live Demo
+
+- Gordon's Portfolio: https://gordonotieno.github.io/
 
 ## 📝 License
 
