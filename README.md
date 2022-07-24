@@ -28,11 +28,11 @@ Use: git clone https://github.com/GordonOtieno/portfolio-website.git
 - Twitter: [@GordonO34459259](https://twitter.com/@GordonO34459259
 
 ## Acknowledgments
+
 - Umer Zia: [@UmerZia](https://github.com/UmerZia for contributing to my project
 
 ## Live Demo
-
-- Gordon's Portfolio: https://gordonotieno.github.io/
+[website:](https://gordonotieno.github.io/portfolio-website/)
 
 ## 📝 License
 
