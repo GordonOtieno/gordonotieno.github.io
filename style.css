@@ -1226,6 +1226,7 @@ body {
     background-position: right top -5.75rem;
     background-size: contain;
     padding: 0 0 0 12rem;
+    height: 100vh;
   }
 
   .section-intro--text_wrapper {
