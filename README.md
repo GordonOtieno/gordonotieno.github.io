@@ -32,7 +32,7 @@ Use: git clone https://github.com/GordonOtieno/portfolio-website.git
 - Umer Zia: [@UmerZia](https://github.com/UmerZia for contributing to my project
 
 ## Live Demo
-[website:](https://gordonotieno.github.io/portfolio-website/)
+[website:](https://gordonotieno.github.io/)
 
 ## 📝 License
 
