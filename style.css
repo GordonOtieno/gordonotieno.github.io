@@ -1081,7 +1081,7 @@ body {
   }
 
   .highlighted-project__wrapper {
-    width: 39%;
+    width: 40%;
     gap: 2.4rem;
   }
 
@@ -1146,7 +1146,7 @@ body {
   .tech-list .skills {
     font-size: 1rem;
     line-height: 1.6rem;
-    padding: 1rem 1.2rem;
+    padding: 1rem 1.3rem;
   }
 
   .project-list--li .project_list--li__cta {
