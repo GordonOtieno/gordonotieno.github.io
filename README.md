@@ -7,6 +7,8 @@ Personal portfolio website.
 - HTML
 - CSS5
 
+## Live Demo
+[website:](https://gordonotieno.github.io/)
 ## Getting Started
 
 In order to use the files, you will have to clone it and then follow the instructions given below.
@@ -31,8 +33,6 @@ Use: git clone https://github.com/GordonOtieno/portfolio-website.git
 
 - Umer Zia: [@UmerZia](https://github.com/UmerZia for contributing to my project
 
-## Live Demo
-[website:](https://gordonotieno.github.io/)
 
 ## 📝 License
 
