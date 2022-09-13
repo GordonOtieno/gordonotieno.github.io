@@ -1216,6 +1216,7 @@ body {
 @media (min-width: 1280px) {
   .main-header {
     padding: 1.25rem 14.2rem;
+    align-items: center;
   }
 
   .humbuger-btn {
