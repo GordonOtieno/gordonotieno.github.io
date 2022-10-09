@@ -4,8 +4,8 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Gordon's Portfolio</title>
-    <link rel="icon" href="../images/favicon.png" type="image/x-icon">
+    <title>My Contact Page</title>
+    <link rel="icon" href="./images/favicon.png" type="image/x-icon">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script
       async
@@ -36,7 +36,7 @@
 
     <link rel="stylesheet" href="css/main.css" />
   </head>
-  <body id="bg-img">
+  <body>
     <header>
       <div class="menu-btn">
         <div class="btn-line"></div>
@@ -49,65 +49,80 @@
           <div class="portrait"></div>
         </div>
         <ul class="menu-nav">
-          <li class="nav-item current">
+          <li class="nav-item">
             <a href="index.html" class="nav-link">Home</a>
           </li>
           <li class="nav-item">
             <a href="about.html" class="nav-link">About Me</a>
           </li>
           <li class="nav-item">
-            <a href="work.html" class="nav-link">My Works</a>
+            <a href="work.html" class="nav-link">My Work</a>
           </li>
-          <li class="nav-item">
-            <a href="contact.html" class="nav-link">Contacts</a>
+          <li class="nav-item current">
+            <a href="contact.html" class="nav-link">How To Reach Me</a>
           </li>
         </ul>
       </nav>
     </header>
 
-    <main id="home">
-      <h1 class="lg-heading" data-aos="fade-down">
-        Hey there, I'm <span class="text-secondary">Gordon Otieno</span>
-      </h1>
-      <h2 class="sm-heading" data-aos="fade-right">
-        I'm a full-stack software developer, programmer, designer, writter &
-        entrepreneur
-      </h2>
-      <div class="icons" data-aos="fade-up">
-        <a
-          href="https://github.com/gordonotieno"
-          target="_blank"
-          rel="noopener noreferrer"
-          ><i class="fab fa-github"></i
-        ></a>
-        <a
-          href="https://medium.com/@otienogordon95"
-          target="_blank"
-          rel="noopener noreferrer"
-          ><i class="fab fa-medium-m"></i
-        ></a>
-        <a
-          href="https://www.linkedin.com/in/gordonotieno/"
-          target="_blank"
-          rel="noopener noreferrer"
-          ><i class="fab fa-linkedin-in"></i
-        ></a>
-        <a
-          href="https://angel.co/u/gordonotieno"
-          target="_blank"
-          rel="noopener noreferrer"
-          ><i class="fab fa-angellist"></i
-        ></a>
-        <a
-          href="https://twitter.com/GordonO34459259"
-          target="_blank"
-          rel="noopener noreferrer"
-          ><i class="fab fa-twitter"></i
-        ></a>
+    <main id="contact">
+      <div class="contact-heading">
+        <div data-aos="fade-right">
+          <h1 class="lg-heading">
+            Contact <span class="text-secondary">Me</span>
+          </h1>
+          <h2 class="sm-heading">Reach out let's get your work done...</h2>
+        </div>
+        <img src="./images/contact.svg" alt="Contact" data-aos="fade-left"/>
       </div>
+      <hr />
+      <section class="contact-form">
+        <div class="form-header-wrapper" data-aos="fade-right">
+          <h2 class="form-header text-secondary">
+            I'm always interested in hearing about new projects, so if you'd
+            like to chat please get in touch.
+          </h2>
+        </div>
+        <form
+          action="https://formspree.io/f/xwkzqpkp"
+          method="POST"
+          class="form"
+          data-aos="fade-up"
+        >
+          <input
+            type="text"
+            name="user_name"
+            id="name"
+            maxlength="30"
+            placeholder="Full name"
+            required
+          />
+          <input
+            type="email"
+            name="user_email"
+            id="email"
+            placeholder="Email address"
+            required
+          />
+          <textarea
+            name="message"
+            id="msg"
+            maxlength="500"
+            placeholder="Enter text here"
+            required
+          ></textarea>
+          <div class="error-paragraph"></div>
+          <button type="submit" class="submit-form">Get in touch</button>
+        </form>
+      </section>
     </main>
 
+    <footer class="main-footer">
+      Developed with 💙 by Gordon, copyright &copy; 2022
+    </footer>
+
     <script src="./js/main.js"></script>
+    <script src="./js/validation.js"></script>
     <script
       src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"
       integrity="sha512-A7AYk1fGKX6S2SsHywmPkrnzTZHrgiVT7GcQkLGDe2ev0aWb8zejytzS8wjo7PGEXKqJOrjQ4oORtnimIRZBtw=="
