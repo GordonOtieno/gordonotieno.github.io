@@ -1,11 +1,12 @@
 # Gordon's Portfolio
 
-Personal portfolio website.
+Personal portfolio website to showcase my abilities
 
 ## Built With
 
 - HTML
 - CSS5
+- JQuery
 
 ## Live Demo
 [website:](https://gordonotieno.github.io/)
@@ -28,10 +29,6 @@ Use: git clone https://github.com/GordonOtieno/portfolio-website.git
 
 - GitHub: [@GordonOtieno](https://github.com/GordonOtieno
 - Twitter: [@GordonO34459259](https://twitter.com/@GordonO34459259
-
-## Acknowledgments
-
-- Umer Zia: [@UmerZia](https://github.com/UmerZia for contributing to my project
 
 
 ## 📝 License
