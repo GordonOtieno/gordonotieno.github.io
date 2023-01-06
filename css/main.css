@@ -18,7 +18,7 @@
   display: inline-block;
   padding: 10px;
   border-radius: 5px;
-  animation: mymove 5s infinite;
+  animation: mymove 1s infinite;
 }
 @keyframes mymove {
   from {
