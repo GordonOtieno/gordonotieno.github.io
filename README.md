@@ -1,6 +1,6 @@
 # Gordon's Portfolio
 
-Personal portfolio website to showcase my abilities
+Personal portfolio website to showcase my works and abilities
 
 ## Built With
 
