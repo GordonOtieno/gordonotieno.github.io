@@ -29,7 +29,6 @@ h3 {
   font-weight: 400;
 
   &.lg-heading {
-    // font-size: 6rem;
     margin-bottom: 3rem;
   }
 
@@ -46,7 +45,7 @@ a {
 }
 
 header {
-  position: relative;
+  position: absolute;
   z-index: 2;
   width: 100%;
 }
