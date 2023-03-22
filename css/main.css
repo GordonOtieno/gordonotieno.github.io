@@ -20,6 +20,33 @@
   border-radius: 5px;
   animation: mymove 1s infinite;
 }
+
+.tech-stack {
+display: flex;
+margin-bottom: 1rem;
+}
+
+.tech-stack li:not(:first-child) {
+ margin: 0 1rem;
+}
+.tech-stack li {
+  background-color: #a7975e;
+  padding: .3rem 1rem;
+  border-radius: 5px;
+}
+
+.d-flex {
+  display: flex;
+  gap: 1rem;
+}
+
+.desc-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+
 @keyframes mymove {
   from {
     background-color: #a7975e;
