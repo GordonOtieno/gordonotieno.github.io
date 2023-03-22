@@ -24,6 +24,8 @@
 .tech-stack {
 display: flex;
 margin-bottom: 1rem;
+flex-wrap: wrap;
+flex: 1;
 }
 
 .tech-stack li:not(:first-child) {
@@ -528,7 +530,6 @@ ul {
 
 @media screen and (max-width: 768px) {
   .tech-stack{
-    display: flex;
     flex-direction: column;
   }
 
